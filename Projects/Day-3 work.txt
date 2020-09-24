@@ -1,0 +1,12 @@
+- Today I started with the yestarday's ongoing project that is portfolio making and SEO.
+- As I got the basic idea of SEO yesterday I started with advance topics like Meta Tags and Head Content,Minifying JS & CSS, Using a CDN, Export Script.
+- First I added favicon to my portfolio and created facebook(Open Graph) and twitter card.
+- I learned more about open-graph on internet and got the clear information about how open-graph works and why it is used for.
+- After that i learned meta tags and how we can add meta tags in bootstarp studio to increase the traffic.
+- I added some meta tags in my portfolio.
+- Then i used the advance feature that is minifying js and css code.
+- I learned more about CDN, what it is and how it works after that i used cdn library for fast content delivery to my web page.
+- Then i read about export-scripts and how we can use this scripts to change the code dynamically.
+- Today I learned almost all the SEO features of bootstrap-studio with application of each feature.
+
+
